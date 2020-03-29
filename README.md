@@ -9,4 +9,4 @@ This is for a **Monoprice Maker Select 3D Printer v2** configured as a **Prusa i
 * Profile: **0.1**
 * Infill: **20%**
 * Build Plate Adhesion: **Skirt**
-* *1h 22m ETA*
+* *1h 44m ETA*
