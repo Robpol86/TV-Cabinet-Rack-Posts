@@ -10,4 +10,4 @@ This is for a **Monoprice Maker Select 3D Printer v2** configured as a **Prusa i
 * Infill: **20%**
 * Build Plate Adhesion: **Skirt**
 * Skirt Distance: **3 mm**
-* *4h 7m ETA*
+* *4h 38m ETA*
