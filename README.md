@@ -6,8 +6,17 @@
 
 This is for a **Monoprice Maker Select 3D Printer v2** configured as a **Prusa i3** printer in Cura.
 
-* Profile: **0.1**
+* Profile: **0.2**
 * Infill: **20%**
+* Infill Pattern: **Octet**
 * Build Plate Adhesion: **Skirt**
 * Skirt Distance: **3 mm**
-* *4h 38m ETA*
+* Support Placement: **Touching Buildplate**
+* Support Overhang Angle: **50**
+* Support Horizontal Expansion: **2**
+* *Add support blocker to the rack holes*
+
+## TODOs
+
+* M5 flathead contours on bodies. Threads will only be on bracing beams.
+* Final product will have holes elongated vertically since rack feet will contract with added weight.
