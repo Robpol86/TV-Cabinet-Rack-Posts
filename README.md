@@ -10,7 +10,7 @@ This is for a **Monoprice Maker Select 3D Printer v2** configured as a **Prusa i
 * Infill: **20%**
 * Infill Pattern: **Octet**
 * Build Plate Adhesion: **Skirt**
-* Skirt Distance: **3 mm**
+* Skirt Distance: **6 mm**
 * Support Placement: **Touching Buildplate**
 * Support Overhang Angle: **50**
 * Support Horizontal Expansion: **2**
