@@ -1,2 +1,7 @@
+*.dwg
+*.dxf
 *.gcode
+*.iges
+*.step
+*.zip
 ??.stl
