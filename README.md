@@ -28,14 +28,6 @@ Candidates:
 * Federal Standard 595 Color FS 37038 Flat Black, Smooth Flat Epoxy Poweder
     * https://www.protocase.com/img/products/mcf/powdercoat/federal-standard-595-37038-epoxy.jpg
 
-### Silkscreen
-
-TODO unit numbers and lines separating each unit
-
-### Marking
-
-TODO version number of model, corresponds with git tag, watch out for mirroring
-
 ### Bend Radius
 
 https://www.protocase.com/resources/bend-radius.php
