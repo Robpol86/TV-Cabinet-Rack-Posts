@@ -64,3 +64,28 @@ This is for a **Monoprice Maker Select 3D Printer v2** configured as a **Prusa i
 * Support Overhang Angle: **50**
 * Support Horizontal Expansion: **2**
 * *Add support blocker to the rack holes*
+
+## Planned Use
+
+This section is to determine if the depth of the rack is sufficient in the short term.
+
+   U | Current      | Future L      | Future R
+---: | ------------ | ------------- | -------------
+   1 | Patch Panel  | Patch Panel   | Patch Panel
+   2 | Switch       | Switch        | Switch
+   3 |              | pfSense + RPi | pfSense + RPi
+   4 |              | SAN + Worker  | SAN + Worker
+   5 |              | SAN + Worker  | SAN + Worker
+   6 | pfSense + FS |               | GPU + Worker
+   7 | pfSense + FS |               | GPU + Worker
+   8 | Drawer       | Drawer        |
+   9 | UPS          | UPS           | UPS
+  10 | UPS          | UPS           | UPS
+
+### Depths
+
+* Posts (inner): **461 mm**
+* Protocase Rails (C2907-18): **457 mm**
+* Travla Rails: *2 inches too long, will sit on shelf*
+* Drawer: **348 mm**
+* UPS: *No depth because the rails won't fit. Will sit on the bottom.*
