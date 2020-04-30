@@ -11,22 +11,15 @@
 
 ## Protocase Notes and Design Constraints
 
+> TODO: Apply .05" fillets to corners.
+
 ### Material
 
 304 Stainless Steel (A240 TP304 2B) 14 Gauge (**1.981 mm**)
 
 ### Colors
 
-Candidates:
-
-* Proto-Stock Matt Black, Low Gloss, Smooth Hybrid
-    * https://www.protocase.com/img/products/mcf/powdercoat/matte-black-proto-stock.jpg
-* Jet Black, Medium Gloss, Smooth Polyester-Epoxy Blend
-    * https://www.protocase.com/img/products/mcf/powdercoat/jet-black.jpg
-* Federal Standard 595 Color FS 17038 Black, Full Gloss, Smooth Polyester Powder
-    * https://www.protocase.com/img/products/mcf/powdercoat/federal-standard-595-17038.jpg
-* Federal Standard 595 Color FS 37038 Flat Black, Smooth Flat Epoxy Poweder
-    * https://www.protocase.com/img/products/mcf/powdercoat/federal-standard-595-37038-epoxy.jpg
+[Proto-Stock Matt Black, Low Gloss, Smooth Hybrid](https://www.protocase.com/img/products/mcf/powdercoat/matte-black-proto-stock.jpg)
 
 ### Bend Radius
 
@@ -38,18 +31,9 @@ Stainless Steel | 14 Gauge (1.981 mm) |      6.98 mm |      1.9 mm
 
 ### K-Factor
 
-Protocase doesn't list it anywhere, but searching online I'm getting these numbers:
+> TODO: Derive k-factor from changed bend radius in eDrawing file sent by Protocase for v0.1.
 
-* **0.480**
-    * Brophy (probably for softer steel)
-* **0.450** (or lower)
-    * http://sheetmetal.me/formulas-and-functions/k-factor/
 * **0.440**
-    * Fusion 360 default
-* **0.435**
-    * https://www.mcadcentral.com/threads/k-factor.23221/#post-127572
-* **0.433**
-    * https://www.youtube.com/watch?v=f3DC0wyLFv0 (comment from Marc Prudhomme)
 
 ## Cura Settings
 
