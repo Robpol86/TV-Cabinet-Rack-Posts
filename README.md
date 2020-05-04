@@ -9,6 +9,16 @@
 * Door width: **20**
 * Center of square hole distance: **465**
 
+Acrylic door fans holder:
+
+* Outer dimensions (mm): **403** (W) x **362** (H)
+* Screw holes: **5**
+* Screw hole nearest center offset: **15** (X) x **15** (Y)
+* Screw hole spacing: **125**
+* Fan hole: **135**
+* Wire hole (slot): **5** (W) x **8** (H)
+* Wire hole offset (nearest point) from nearest fan hole center: **0** (X) x **20** (Y)
+
 ## Protocase Notes and Design Constraints
 
 > TODO: Apply .05" fillets to corners.
