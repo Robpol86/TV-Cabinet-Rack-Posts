@@ -25,6 +25,8 @@ Acrylic door fans holder:
 
 ### Material
 
+> TODO: Increase to 3 mm.
+
 304 Stainless Steel (A240 TP304 2B) 14 Gauge (**1.981 mm**)
 
 ### Colors
